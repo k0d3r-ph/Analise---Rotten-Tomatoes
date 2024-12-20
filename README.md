@@ -1,2 +1,6 @@
-# Analise---Rotten-Tomatoes
-Análise voltada ao dados retirados do Rotten Tomatoes.
+# Analise - Rotten-Tomatoes
+O sistema de classificação de filmes tornou-se uma parte essencial da indústria cinematográfica, oferecendo ao público uma referência para avaliar a qualidade de um filme. Entre os diversos sistemas de classificação, o Rotten Tomatoes destaca-se como uma das plataformas mais populares e influentes.
+
+O Rotten Tomatoes é um site de agregação de críticas que coleta e analisa avaliações de filmes feitas tanto por críticos profissionais quanto pelo público em geral. A popularidade da plataforma pode ser atribuída à sua abordagem única para classificar filmes, baseada na pontuação do Tomatometer. Essa pontuação é calculada somando o número de críticas positivas feitas pelos principais críticos e comparando-as com o número total de avaliações. Um filme com uma pontuação no Tomatometer de 60% ou mais é considerado "fresco" ("fresh"), enquanto aqueles com pontuação abaixo de 60% são rotulados como "podres" ("rotten"). Esse sistema binário oferece ao público uma maneira clara e concisa de determinar se um filme vale a pena assistir ou não.
+
+Com esta introdução feita, iremos realizar análises envolvendo um dataset adquirido do site Kaggle (https://www.kaggle.com/datasets/subhajournal/movie-rating) sobre genêros de filmes, diretores, críticas, etc.
